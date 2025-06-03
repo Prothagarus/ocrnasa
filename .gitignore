@@ -2,7 +2,7 @@
 *.log
 *.txt
 *.md
-*.json
+
 *.csv
 *.xlsx
 *.venv
